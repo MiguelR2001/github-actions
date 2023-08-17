@@ -23,7 +23,11 @@ class Calculator{
     
 	   return num1 / num2;
   }
-
+	
+multiply(num1, num2){
+    	return num1 * num2;
+  }
+      
 }
 
 //required so data is visible externally
